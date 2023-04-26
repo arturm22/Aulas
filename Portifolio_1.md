@@ -1,4 +1,5 @@
-# Aulas
+## Introdução à inteligência artificial, histórico, estado da arte, benefícios e riscos. Agentes inteligentes, ambientes e racionalidade.
+ 
  UNB
 
 
