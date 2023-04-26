@@ -17,6 +17,6 @@ git push -u origin main
 
 ## Adicionar imagens 
 
-<div align="center">
-<img src="" width="700px" />
+<div align="left">
+<img src="Imagens/img_3.jpg" width="500px" />
 </div>
