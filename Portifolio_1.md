@@ -11,7 +11,8 @@ A inteligência artificial foi definida por John McCarthy "a ciência e a engenh
 <img src="Imagens/img_robot1.jpg" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução
+                   Está imagem fo feita pela inteligencia artificial do bing 
+                   e tenta fazer um resumo da introdução
 
 ### 1.1  
 
