@@ -5,7 +5,7 @@
 
 ## O que é inteligencia artificial
   
-A inteligência artificial foi definida por John McCarthy "a ciência e a engenharia de fabricar máquinas inteligentes, especialmente programas de computador inteligentes", tendo isso e com maior aprofundamento do assundo ao longo dos anos, a inteligência artificial busca fazer com que as máquinas consigam solucinar problemas com tomadas de decisão e aprendizado  
+A inteligência artificial foi definida por John McCarthy "a ciência e a engenharia de fabricar máquinas inteligentes, especialmente programas de computador inteligentes", tendo isso e com maior aprofundamento do assundo ao longo dos anos, a inteligência artificial busca fazer com que as máquinas consigam solucinar problemas com tomadas de decisão e aprendizado de um objetivo específico. Com isso algumas métodos foram desenvolvidos para a aplicação desse conceito no qual se destacam  Machine Learning ou Aprendizado de Máquina, Processamento de Linguagem Natural (PLN) e Visão Computacional.
 
 
 ### 1.1  
@@ -57,3 +57,5 @@ Saiba mais:
 6. (https://www.politize.com.br/inteligencia-artificial/
 7. https://www.sas.com/pt_br/insights/analytics/machine-learning.html
 8. https://www.tecnologiae.com.br/aprendizado-maquina/)
+9. https://fia.com.br/blog/inteligencia-artificial/
+10. https://www.programaria.org/quais-sao-os-tipos-de-aplicacoes-de-inteligencia-artificial-mais-comuns/
