@@ -12,7 +12,7 @@ A inteligência artificial foi definida por John McCarthy "a ciência e a engenh
 <figcaption>Está imagem tem a intenção de demonstra uma pesquisa feita pela máquina tendo e definindo a melhor opção com seu algorítimo </figcaption>
 </figure>
 
-<img src="Imagens/img_robot1.jpg" width="350px" alt="Texto alternativo 1"><img src="Imagens/img_robot1.jpg" width="350px" alt="Texto alternativo 2">
+<img src="Imagens/img_robot2.jpg" width="350px" alt="Texto alternativo 1" style= "float: left;><img src="Imagens/img_robot1.jpg" width="350px" alt="Texto alternativo 2" style= "float: rigth;>
 
 ### 1.1  
 
