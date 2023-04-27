@@ -14,6 +14,11 @@ A inteligência artificial foi definida por John McCarthy "a ciência e a engenh
 </div>
 </figure>
 
+<figure>
+  <img src="Imagens/img_robot2.jpg" alt="Texto alternativo">
+  <figcaption>Comentário da imagem</figcaption>
+</figure>
+
 ### 1.1  
 
 
