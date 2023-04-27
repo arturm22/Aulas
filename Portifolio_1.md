@@ -8,10 +8,8 @@
 A inteligência artificial foi definida por John McCarthy "a ciência e a engenharia de fabricar máquinas inteligentes, especialmente programas de computador inteligentes", tendo isso e com maior aprofundamento do assundo ao longo dos anos, a inteligência artificial busca fazer com que as máquinas consigam solucinar problemas com tomadas de decisão e aprendizado de um objetivo específico. Com isso algumas métodos foram desenvolvidos para a aplicação desse conceito no qual se destacam  Machine Learning ou Aprendizado de Máquina, Processamento de Linguagem Natural (PLN) e Visão Computacional.
 
 <figure>
-<div align="center">
-<img src="Imagens/img_robot1.jpg" width="500px" /alt="Imagem Criada pela inteligência artificial do bing" />
+<img src="Imagens/img_robot1.jpg" width="500px" alt="Imagem Criada pela inteligência artificial do bing" style= "float: center;"/>
  <figcaption>Está imagem tem a intenção de demonstra uma pesquisa feita pela máquina tendo e definindo a melhor opção com seu algorítimo </figcaption>
-</div>
 </figure>
 
 <figure>
