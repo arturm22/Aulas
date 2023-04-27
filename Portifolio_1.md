@@ -9,9 +9,9 @@ A inteligência artificial foi definida por John McCarthy "a ciência e a engenh
 
 <div align="center">
 <img src="Imagens/img_robot1.jpg" width="500px" />
- |:Imagem feita pelo bing:|
+ 
 </div>
-
+|:Imagem feita pelo bing:|
 ### 1.1  
 
 
