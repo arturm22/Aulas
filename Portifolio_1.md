@@ -9,7 +9,7 @@ A inteligência artificial foi definida por John McCarthy "a ciência e a engenh
 
 <figure>
 <div align="center">
-<img src="Imagens/img_robot1.jpg" width="500px" alt="Imagem Criada pela inteligência artificial do bing" />
+<img src="Imagens/img_robot1.jpg" width="500px" /alt="Imagem Criada pela inteligência artificial do bing" />
  <figcaption>Está imagem tem a intenção de demonstra uma pesquisa feita pela máquina tendo e definindo a melhor opção com seu algorítimo </figcaption>
 </div>
 </figure>
