@@ -14,8 +14,11 @@
 <p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
 
 
-### 1.1  
+### 1.1  Histórico
 
+O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência para debater o assunto e reunir pesquisadores da área. Já se havia antes da conferência os seguintes estudos: 
+
+Warren McCulloc e Walter Pitts datados 1943 com um 
 
 
 
