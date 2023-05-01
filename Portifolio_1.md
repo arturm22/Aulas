@@ -33,7 +33,14 @@ Alguns anos depois pela décadas de 60 a inteligência artificial só conseguia 
 
 Em 1986 retornam os estudos com redes neurais com modelos conexionistas, em sistemas que conseguem aprender com exemplos, testes ou erros além de serem adaptáveis. Por estar se afastando da ciência da computação e da teoria clássica David McAllester entendeu que  "aprendizado de máquina não deve ser isolado da teoria da informação, raciocínio incerto não deve ser isolado da modelagem estocástica, que busca não deve ser isolada da otimização e controle clássicos, e que o raciocínio automatizado não deve ser isolado de métodos formais e análise estática".
 
-Com o tempo avanços notáveis apareceram como o Big Data
+Com o tempo avanços notáveis apareceram como o World Wide Web, o Big Data, que são conjuntos de dados de todos os tipos, incluindo dados grandes, que favoreceram a utilização de aprendizado de máquina, por desenvolvimentos de algorítimos cada vez melhores e cada vez mais precisos, e com o volume de dados aumentando constantemente o avanço nessa tecnologia avança em conjunto. 
+
+Um dos avanços é o Deep learning, que volta com força em 2011 utilizando de várias camadas da computação para seu aprendizado, reconhecendo fala e até objetos e superando os desempenho humano em várias categorias.
+
+## 1.2 Estado da Arte
+
+
+
 
 ## Referências
 
