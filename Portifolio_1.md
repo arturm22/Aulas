@@ -24,10 +24,10 @@ O termo Inteligência artificial foi criado em 1956 por John McCarthy além de c
  * Alan Turing com o teste de Turing utilizada na segunda guerra mundial
 
 <div align="center">
-<img src="Imagens/ia_pais_fundadores.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<img src="Imagens/ia_pais_fundadores.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Principais Pensadores da COnferência de Darthmouth</p>
+<p align="center"> Principais Pensadores da Conferência de Darthmouth</p>
 
 
 ## Referências
