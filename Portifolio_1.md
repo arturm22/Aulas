@@ -17,8 +17,8 @@
 ### 1.1  Histórico
 
 O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência para debater o assunto e reunir pesquisadores da área. Já se havia antes da conferência os seguintes estudos: 
-Markup: * Warren McCulloc e Walter Pitts datados 1943 com um 
-        * isabsiabai
+ * Warren McCulloc e Walter Pitts datados 1943 com um 
+ * isabsiabai
 
 
 ## Referências
