@@ -5,7 +5,7 @@
 
 ## O que é inteligencia artificial
 
-<p align="justify">A inteligência artificial foi definida por John McCarthy "a ciência e a engenharia de fabricar máquinas inteligentes, especialmente programas de computador inteligentes", tendo isso e com maior aprofundamento do assundo ao longo dos anos, a inteligência artificial busca fazer com que as máquinas consigam solucinar problemas com tomadas de decisão e aprendizado de um objetivo específico. Com isso algumas métodos foram desenvolvidos para a aplicação desse conceito no qual se destacam  Machine Learning ou Aprendizado de Máquina, Processamento de Linguagem Natural (PLN) e Visão Computacional.</p>
+<p align="justify">Presente no imáginário de escitores como Azimov, em filmes ou em mitologias, a inteligência artificial foi definida por John McCarthy como "a ciência e a engenharia de fabricar máquinas inteligentes, especialmente programas de computador inteligentes", tendo isso e com maior aprofundamento do assundo ao longo dos anos, a inteligência artificial busca fazer com que as máquinas consigam solucinar problemas com tomadas de decisão e aprendizado de um objetivo específico. Com isso algumas métodos foram desenvolvidos para a aplicação desse conceito no qual se destacam  Machine Learning ou Aprendizado de Máquina, Processamento de Linguagem Natural (PLN) e Visão Computacional.</p>
 
 <div align="center">
 <img src="Imagens/img_robot1.jpg" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
@@ -16,18 +16,21 @@
 
 ### 1.1  Histórico
 
-O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência na Darthmouth College em 1956 para debater o assunto e reunir pesquisadores da área. Já se havia antes da conferência os seguintes estudos e criações: 
+<p align="justify">O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência na Darthmouth College em 1956 para debater o assunto e reunir pesquisadores da área. O sucesso inicial surgiu com o **General Problem Solver (Solucionador de Problemas Gerais)**, ou GPS, desenvolvido por Newell e Simon e também o sucesso de Alan Turing na segunda guerra mundical com seu decodificador de mensagens. Já se havia antes da conferência os seguintes estudos e criações:</p> 
 
  * Warren McCulloc e Walter Pitts datados 1943 com seu modelo de neurônios utilizando conectivos lógicos
  * Donald Hebb em 1949 com a aprendizagem Hebbiana
  * Harvard, Marvin Minsky e Dean Edmonds com o primeiro computador de rede neural, o SNARC
- * Alan Turing com o teste de Turing utilizada na segunda guerra mundial
+ * Alan Turing com o teste de Turing utilizada na segunda guerra mundial e seus estudos computacionais
 
 <div align="center">
 <img src="Imagens/ia_pais_fundadores.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
 <p align="center"> Principais Pensadores da Conferência de Darthmouth</p>
+
+Alguns anos depois pela décadas de 60 a inteligência artificial só conseguia resolver problemas simples, muito envolvendo a porta lógica xor. No início da década de 70 uma empresa começou a utilizar sistemas em IA dando uma nova vida a essa pratíca com sisttemas especialistas, que resolviam problemas especifícos gerando muito lucro às empresas. Na década de 80 acontece o Inverno IA, em quel a inteligência artificial é deixada um pouco de lado por não cumprir muitas de suas promessas além de várias falhas quando oissuia domínios mais complexos.
+Em 1986 retornam os estudos com redes neurais com modelos conexionistas, em sistemas que conseguem aprender com exemplos, testes ou erros além de serem adaptáveis. Por estar se afastando da ciência da computação e da teoria clássica David McAllester entendeu que  
 
 
 ## Referências
