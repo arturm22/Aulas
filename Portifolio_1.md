@@ -16,12 +16,18 @@
 
 ### 1.1  Histórico
 
-O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência para debater o assunto e reunir pesquisadores da área. Já se havia antes da conferência os seguintes estudos e criações: 
+O termo Inteligência artificial foi criado em 1956 por John McCarthy além de criar uma conferência na Darthmouth College em 1956 para debater o assunto e reunir pesquisadores da área. Já se havia antes da conferência os seguintes estudos e criações: 
 
- * Warren McCulloc e Walter Pitts datados 1943 com seu modelo de neurônio
+ * Warren McCulloc e Walter Pitts datados 1943 com seu modelo de neurônios utilizando conectivos lógicos
  * Donald Hebb em 1949 com a aprendizagem Hebbiana
  * Harvard, Marvin Minsky e Dean Edmonds com o primeiro computador de rede neural, o SNARC
  * Alan Turing com o teste de Turing utilizada na segunda guerra mundial
+
+<div align="center">
+<img src="Imagens/ia_pais_fundadore.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<figcaption> </figcaption>
+</div>
+<p align="center"> Principais Pensadores da COnferência de Darthmouth</p>
 
 
 ## Referências
