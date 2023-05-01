@@ -39,7 +39,15 @@ Um dos avanços é o Deep learning, que volta com força em 2011 utilizando de v
 
 ## 1.2 Estado da Arte
 
+O estado da arte em IA é um termo usado para descrever o nível mais alto de conhecimento e desenvolvimento em inteligência artificial. Ele é constantemente atualizado à medida que novas pesquisas e avanços são feitos na área, como na *The One Hundred Year Study on Artificial Intelligence*, or *AI100*, é um esforço de 100 anos para estudar e antecipar como os efeitos da inteligência artificial afetarão todos os aspectos do cotidiano das pessoas. 
 
+Com o crescimento da inteligência artificial no mundo, a busca por esse conhecimento tanto na área de estudo como na área comercial aumentou muito nos últimos anos, assim com demonstra no *AI index* em seu relatorio de 2022. Com o desenvolvimento nessa área muitas tecnologias estão aparecento, como em carros automáticos, sistemas de correções por computador, análises comportamentais e outros.
+
+A inteligência artificial traz vários benefícios, como acelearar o desenvolvimento tecnológico e atuar em inúmeras áreas de trabalho, mas também traz riscos quanto quem as programa e suas inteções diante dessa poderosa ferramenta computacional.
+
+## 1.3 Agentes, ambientes e racionalidade
+
+O agente é aquele que recebe a programação e o que deve realizar a ação,  que foi previamente oservada e através de sua função atua, ou seja, ou seja, a ação do agente depende da sua programação agente, seus comandos de ação,  e sua função agente que é o mapeamento e percepção do agente.   
 
 
 ## Referências
