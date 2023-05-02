@@ -29,31 +29,32 @@
 </div>
 <p align="center"> Principais Pensadores da Conferência de Darthmouth</p>
 
-Alguns anos depois pela décadas de 60 a inteligência artificial só conseguia resolver problemas simples, muito envolvendo a porta lógica xor. No início da década de 70 uma empresa começou a utilizar sistemas em IA dando uma nova vida a essa pratíca com sisttemas especialistas, que resolviam problemas especifícos gerando muito lucro às empresas. Na década de 80 acontece o Inverno IA, em quel a inteligência artificial é deixada um pouco de lado por não cumprir muitas de suas promessas além de várias falhas quando oissuia domínios mais complexos.
+<p align="justify">Alguns anos depois pela décadas de 60 a inteligência artificial só conseguia resolver problemas simples, muito envolvendo a porta lógica xor. No início da década de 70 uma empresa começou a utilizar sistemas em IA dando uma nova vida a essa pratíca com sisttemas especialistas, que resolviam problemas especifícos gerando muito lucro às empresas. Na década de 80 acontece o Inverno IA, em quel a inteligência artificial é deixada um pouco de lado por não cumprir muitas de suas promessas além de várias falhas quando oissuia domínios mais complexos.</p>
 
-Em 1986 retornam os estudos com redes neurais com modelos conexionistas, em sistemas que conseguem aprender com exemplos, testes ou erros além de serem adaptáveis. Por estar se afastando da ciência da computação e da teoria clássica David McAllester entendeu que  "aprendizado de máquina não deve ser isolado da teoria da informação, raciocínio incerto não deve ser isolado da modelagem estocástica, que busca não deve ser isolada da otimização e controle clássicos, e que o raciocínio automatizado não deve ser isolado de métodos formais e análise estática".
+<p align="justify">Em 1986 retornam os estudos com redes neurais com modelos conexionistas, em sistemas que conseguem aprender com exemplos, testes ou erros além de serem adaptáveis. Por estar se afastando da ciência da computação e da teoria clássica David McAllester entendeu que  "aprendizado de máquina não deve ser isolado da teoria da informação, raciocínio incerto não deve ser isolado da modelagem estocástica, que busca não deve ser isolada da otimização e controle clássicos, e que o raciocínio automatizado não deve ser isolado de métodos formais e análise estática".</p>
 
-Com o tempo avanços notáveis apareceram como o World Wide Web, o Big Data, que são conjuntos de dados de todos os tipos, incluindo dados grandes, que favoreceram a utilização de aprendizado de máquina, por desenvolvimentos de algorítimos cada vez melhores e cada vez mais precisos, e com o volume de dados aumentando constantemente o avanço nessa tecnologia avança em conjunto. 
+<p align="justify">Com o tempo avanços notáveis apareceram como o World Wide Web, o Big Data, que são conjuntos de dados de todos os tipos, incluindo dados grandes, que favoreceram a utilização de aprendizado de máquina, por desenvolvimentos de algorítimos cada vez melhores e cada vez mais precisos, e com o volume de dados aumentando constantemente o avanço nessa tecnologia avança em conjunto.</p>
 
-Um dos avanços é o Deep learning, que volta com força em 2011 utilizando de várias camadas da computação para seu aprendizado, reconhecendo fala e até objetos e superando os desempenho humano em várias categorias.
+<p align="justify">Um dos avanços é o Deep learning, que volta com força em 2011 utilizando de várias camadas da computação para seu aprendizado, reconhecendo fala e até objetos e superando os desempenho humano em várias categorias.</p>
 
 ## 1.2 Estado da Arte
 
-O estado da arte em IA é um termo usado para descrever o nível mais alto de conhecimento e desenvolvimento em inteligência artificial. Ele é constantemente atualizado à medida que novas pesquisas e avanços são feitos na área, como na *The One Hundred Year Study on Artificial Intelligence*, or *AI100*, é um esforço de 100 anos para estudar e antecipar como os efeitos da inteligência artificial afetarão todos os aspectos do cotidiano das pessoas. 
+<p align="justify">O estado da arte em IA é um termo usado para descrever o nível mais alto de conhecimento e desenvolvimento em inteligência artificial. Ele é constantemente atualizado à medida que novas pesquisas e avanços são feitos na área, como na *The One Hundred Year Study on Artificial Intelligence*, or *AI100*, é um esforço de 100 anos para estudar e antecipar como os efeitos da inteligência artificial afetarão todos os aspectos do cotidiano das pessoas. 
 
-Com o crescimento da inteligência artificial no mundo, a busca por esse conhecimento tanto na área de estudo como na área comercial aumentou muito nos últimos anos, assim com demonstra no *AI index* em seu relatorio de 2022. Com o desenvolvimento nessa área muitas tecnologias estão aparecento, como em carros automáticos, sistemas de correções por computador, análises comportamentais e outros.
+<p align="justify">Com o crescimento da inteligência artificial no mundo, a busca por esse conhecimento tanto na área de estudo como na área comercial aumentou muito nos últimos anos, assim com demonstra no *AI index* em seu relatorio de 2022. Com o desenvolvimento nessa área muitas tecnologias estão aparecento, como em carros automáticos, sistemas de correções por computador, análises comportamentais e outros.</p>
 
-A inteligência artificial traz vários benefícios, como acelearar o desenvolvimento tecnológico e atuar em inúmeras áreas de trabalho, mas também traz riscos quanto quem as programa e suas inteções diante dessa poderosa ferramenta computacional.
+<p align="justify">A inteligência artificial traz vários benefícios, como acelearar o desenvolvimento tecnológico e atuar em inúmeras áreas de trabalho, mas também traz riscos quanto quem as programa e suas inteções diante dessa poderosa ferramenta computacional.</p>
 
 ## 1.3 Agentes, ambientes e racionalidade
 
-O agente é aquele que recebe a programação e o que deve realizar a ação,  que foi previamente oservada e através de sua função atua, ou seja, ou seja, a ação do agente depende da sua programação agente, seus comandos de ação,  e sua função agente que é o mapeamento e percepção do agente.   
+<p align="justify">O agente é aquele que recebe a programação e o que deve realizar a ação,  que foi previamente oservada e através de sua função atua, ou seja, ou seja, a ação do agente depende da sua programação agente, seus comandos de ação,  e sua função agente que é o mapeamento e percepção do agente.</p>
 
-O racional divide-se em pontos caracteríscticos, sendo eles os critérios de sucesso, o conhecimento sobre o ambiente, as ações que consegue realizar, e depois de apurado suas decisões
-A racionalidade do sistema se divide em dois conceitos, o consequencialismo em que faz-se uma espécie de filtro entre boas açóes e más consequências, e a medida de performace inserido pelo programador, podendo ter maior complexidade e de forma explicita ou implicita. Essas medidas buscam selecionar ações que maximizem ao máximo seu desenpenho dado os conteúdos fornecidos e qualquer conhecimento prévio.
+<p align="justify">O racional divide-se em pontos caracteríscticos, sendo eles os critérios de sucesso, o conhecimento sobre o ambiente, as ações que consegue realizar, e depois de apurado suas decisões.</p>
+ 
+<p align="justify">A racionalidade do sistema se divide em dois conceitos, o consequencialismo em que faz-se uma espécie de filtro entre boas açóes e más consequências, e a medida de performace inserido pelo programador, podendo ter maior complexidade e de forma explicita ou implicita. Essas medidas buscam selecionar ações que maximizem ao máximo seu desenpenho dado os conteúdos fornecidos e qualquer conhecimento prévio.</p>
 
-Com o intuito de peojetar um agente deve-se prestar atenção na ornganização do agentem especificando o maior número de detalhes do ambiente assim como sua tarefa.
-Ao projetar um agente, o primeiro passo deve ser sempre especificar o ambiente de tarefa da forma mais completa possível, com isso utiliza-se o PEAS.
+<p align="justify">Com o intuito de peojetar um agente deve-se prestar atenção na ornganização do agentem especificando o maior número de detalhes do ambiente assim como sua tarefa.
+Ao projetar um agente, o primeiro passo deve ser sempre especificar o ambiente de tarefa da forma mais completa possível, com isso utiliza-se o PEAS.</p>
 
 Descrição PEAS (Performance, Environment, Actuators, Sensors)
 Depois da definição do Agente as seguintes perguntas devem ser respondidas:
@@ -77,12 +78,13 @@ A representação estados dos agentes são feitos da seguinte forma, sendo ela d
 
 ## 1.4 Contribuições 
  ### a. Discussões: 
-  Acredito que estamos em uma fase de crescente sobre inteligência artificial e talvez um dos grandes momonetos sobre essa tecnologia, hoje ajustes  e correções por computarores estão conseguindo alcançar níveis de exelência como os dos foguetes, automóveis e ciências médicas. 
-  Possivelmente muitas questões éticas estão aparencendo, como as de liberdade de expressão, sobre o certo e o errado e até onde podemos aplicar essa tecnologia de maneira com que contribua para a sociedade. Mas é fato que temos muito a ganhar com suas aplicações e que muitos acreditam que seja o próximo boom tecnológico, só de se pensar que cada vez mais conseguimos atribuir grandes quantidades de tarefas pra essa tecnologia e ganhamos tempo com isso, o tempo ganho em empresas também se torna grande.
+  <p align="justify">Acredito que estamos em uma fase de crescente sobre inteligência artificial e talvez um dos grandes momonetos sobre essa tecnologia, hoje ajustes  e correções por computarores estão conseguindo alcançar níveis de exelência como os dos foguetes, automóveis e ciências médicas.</p>
+   
+  <p align="justify">Possivelmente muitas questões éticas estão aparencendo, como as de liberdade de expressão, sobre o certo e o errado e até onde podemos aplicar essa tecnologia de maneira com que contribua para a sociedade. Mas é fato que temos muito a ganhar com suas aplicações e que muitos acreditam que seja o próximo boom tecnológico, só de se pensar que cada vez mais conseguimos atribuir grandes quantidades de tarefas pra essa tecnologia e ganhamos tempo com isso, o tempo ganho em empresas também se torna grande.</p>
 
 ### B. Projetos e problemas:
 
- Um bom projeto é o de identificação de doenças por reconhecimento de imagens e super resolução por IA, como demonstrado nas imagens abaixo, em que alguns casos identifica casos de cancer com mais precisão que o olho humano.
+<p align="justify"> Um bom projeto é o de identificação de doenças por reconhecimento de imagens e super resolução por IA, como demonstrado nas imagens abaixo, em que alguns casos identifica casos de cancer com mais precisão que o olho humano.</p>
 
 PEAS do projeto de identificação de doenças por reconhecimento de imagens e super resolução:
 
@@ -99,13 +101,13 @@ PEAS do projeto de identificação de doenças por reconhecimento de imagens e s
 <img src="Imagens/Super_res_15.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
+<p align="center"> Artigo científico de identificação de doenças</p>
 
 <div align="center">
 <img src="Imagens/Super_res_16.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
+<p align="center"> Está imagens analisadas</p>
 
 
 ## Referências
