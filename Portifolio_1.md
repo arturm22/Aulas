@@ -94,116 +94,39 @@ PEAS do projeto de identificação de doenças por reconhecimento de imagens e s
   * Tela que demonstras os resultados e com demonstrativos dos resultados obtidos
 * Quais são os sensores disponíveis para explorar o ambiente?
   * Câmeras, imagens de ultrassom e imagens de raio x.
-%%
+
+
 ## Referências
 
-*\
-
+1. https://www.politize.com.br/inteligencia-artificial/
+2. https://www.sas.com/pt_br/insights/analytics/machine-learning.html
+3. https://www.tecnologiae.com.br/aprendizado-maquina/)
+4. https://fia.com.br/blog/inteligencia-artificial/
+5. https://www.programaria.org/quais-sao-os-tipos-de-aplicacoes-de-inteligencia-artificial-mais-comuns/
 1. x2inteligencia.digital
 2. tecnicon.com.br
 3. epocanegocios.globo.com
 4. nationalgeographicbrasil.com
-
-
-
 1. warren.com.br
 2. ebiografia.com
 3. tecnoblog.net
 4. bing.com
-
-1. pt.wikipedia.org
 2. sas.com
 3. fia.com.br
 4. neilpatel.com
-
-1. pt.wikipedia.org
 2. mittechreview.com.br
 3. bing.com
 4. take.net
 5. each.usp.br
-
-1. sas.com
-2. pt.wikipedia.org
 3. nvidia.com
-
-1. pt.wikipedia.org
-2. en.wikipedia.org
 3. blog.stoodi.com.br
 4. iaexpert.academy
-+1 mais
-15
-de
-20
-Qual a influência dessa máquina na inteligência artificial
-Mensagem enviada. Qual a influência dessa máquina na inteligência artificial
-O General Problem Solver (GPS) foi um programa de computador criado em 1957 por Herbert Simon, J. C. Shaw e Allen Newell destinado a funcionar como uma máquina universal de solucionar problemas. Ele foi um dos primeiros programas a separar seu conhecimento dos problemas (regras representadas como dados de entrada) de sua estratégia de como resolver os problemas (uma máquina solucionadora genérica).
-
-O GPS foi um marco importante na história da inteligência artificial e influenciou o desenvolvimento de outras arquiteturas de inteligência artificial, como a arquitetura Soar. Ele também ajudou a estabelecer a ideia de que os computadores poderiam ser usados para resolver problemas complexos e simbólicos.
-
-Gostaria de saber mais sobre algum outro tópico?
-
-Mensagem recebida. O General Problem Solver (GPS) foi um programa de computador criado em 1957 por Herbert Simon, J. C. Shaw e Allen Newell destinado a funcionar como uma máquina universal de solucionar problemas. Ele foi um dos primeiros programas a separar seu conhecimento dos problemas (regras representadas como dados de entrada) de sua estratégia de como resolver os problemas (uma máquina solucionadora genérica). O GPS foi um marco importante na história da inteligência artificial e influenciou o desenvolvimento de outras arquiteturas de inteligência artificial, como a arquitetura Soar. Ele também ajudou a estabelecer a ideia de que os computadores poderiam ser usados para resolver problemas complexos e simbólicos. Gostaria de saber mais sobre algum outro tópico?
-16
-de
-20
-arquitetura Soar
-Mensagem enviada. arquitetura Soar
-Procurando por “arquitetura Soar”
-
-Procurando por “arquitetura Soar”
-
-Gerando respostas para você…
-
-Gerando respostas para você…
-
-A arquitetura cognitiva SOAR foi criada para ser uma arquitetura computacional de propósito geral que descreve como as pessoas pensam. Ela tenta relatar da maneira mais precisa possível como os seres humanos resolvem problemas, aprendem novos conhecimentos e memorizam informações1.
-
-A arquitetura SOAR foi desenvolvida por John Laird, Allen Newell e Paul Rosenbloom na Universidade Carnegie Mellon no início dos anos 1980. Ela é baseada em teorias de cognição humana e tem sido usada para modelar uma ampla variedade de comportamentos humanos, incluindo resolução de problemas, tomada de decisão e aprendizado.
-
-Gostaria de saber mais sobre algum outro tópico?
-
-Mensagem recebida. A arquitetura cognitiva SOAR foi criada para ser uma arquitetura computacional de propósito geral que descreve como as pessoas pensam. Ela tenta relatar da maneira mais precisa possível como os seres humanos resolvem problemas, aprendem novos conhecimentos e memorizam informações. A arquitetura SOAR foi desenvolvida por John Laird, Allen Newell e Paul Rosenbloom na Universidade Carnegie Mellon no início dos anos 1980. Ela é baseada em teorias de cognição humana e tem sido usada para modelar uma ampla variedade de comportamentos humanos, incluindo resolução de problemas, tomada de decisão e aprendizado. Gostaria de saber mais sobre algum outro tópico?
-Saiba mais:
 1. bing.com
 2. redhat.com
 3. learn.microsoft.com
 4. dca.fee.unicamp.br
-17
-de
-20
-Warren McCulloch, Walter Pitts, Donald Hebb, Harvard, Marvin Minsky e Dean Edmonds participação dele na inteligência artificial separado por tópicos
-Mensagem enviada. Warren McCulloch, Walter Pitts, Donald Hebb, Harvard, Marvin Minsky e Dean Edmonds participação dele na inteligência artificial separado por tópicos
-Procurando por “Warren McCulloch, Walter Pitts, Donald Hebb, Harvard, Marvin Minsky e Dean Edmonds participação dele na inteligência artificial”
-
-Procurando por “Warren McCulloch, Walter Pitts, Donald Hebb, Harvard, Marvin Minsky e Dean Edmonds participação dele na inteligência artificial”
-
-Gerando respostas para você…
-
-Gerando respostas para você…
-
-Warren McCulloch e Walter Pitts foram dois pesquisadores que propuseram um modelo de neurônio artificial em 1943, o MCP (McCulloch-Pitts)1. Donald Hebb foi um psicólogo que demonstrou uma regra de atualização simples para modificar as intensidades de conexões entre neurônios em 1949, regra conhecida como aprendizado hebbiano, muito influente até hoje1.
-
-Marvin Minsky e Dean Edmonds construíram o primeiro computador de rede neural em 1951 no MIT. O computador, chamado SNARC (Stochastic Neural Analog Reinforcement Calculator), foi construído usando tubos de vácuo e foi usado para simular uma rede de 40 neurônios.
-
-Gostaria de saber mais sobre algum outro tópico?
-
-
-
-
-
-
-
-Saiba mais:
-
 1. europarl.europa.eu
 2. bing.com
 3. ebit.pt
 4. brasilescola.uol.com.br
 5. fia.com.br
-6. (https://www.politize.com.br/inteligencia-artificial/
-7. https://www.sas.com/pt_br/insights/analytics/machine-learning.html
-8. https://www.tecnologiae.com.br/aprendizado-maquina/)
-9. https://fia.com.br/blog/inteligencia-artificial/
-10. https://www.programaria.org/quais-sao-os-tipos-de-aplicacoes-de-inteligencia-artificial-mais-comuns/
-/*
-%%
