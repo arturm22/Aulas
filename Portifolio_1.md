@@ -82,7 +82,7 @@ A representação estados dos agentes são feitos da seguinte forma, sendo ela d
 
 ### B. Projetos e problemas:
 
- Um bom projeto é o de identificação de doenças por reconhecimento de imagens e super resolução por IA, em que alguns casos identifica casos de cancer com mais precisão que o olho humano.
+ Um bom projeto é o de identificação de doenças por reconhecimento de imagens e super resolução por IA, como demonstrado nas imagens abaixo, em que alguns casos identifica casos de cancer com mais precisão que o olho humano.
 
 PEAS do projeto de identificação de doenças por reconhecimento de imagens e super resolução:
 
@@ -94,6 +94,18 @@ PEAS do projeto de identificação de doenças por reconhecimento de imagens e s
   * Tela que demonstras os resultados e com demonstrativos dos resultados obtidos
 * Quais são os sensores disponíveis para explorar o ambiente?
   * Câmeras, imagens de ultrassom e imagens de raio x.
+
+<div align="center">
+<img src="Imagens/Super_res_15.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<figcaption> </figcaption>
+</div>
+<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
+
+<div align="center">
+<img src="Imagens/Super_res_16.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<figcaption> </figcaption>
+</div>
+<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
 
 
 ## Referências
