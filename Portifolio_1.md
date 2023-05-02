@@ -107,7 +107,7 @@ PEAS do projeto de identificação de doenças por reconhecimento de imagens e s
 <img src="Imagens/Super_res_16.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Está imagens analisadas</p>
+<p align="center"> Imagens analisadas no artigo</p>
 
 
 ## Referências
