@@ -4,8 +4,8 @@
 
 ### Agente de solução de problemas
 
-  O objetivo de um algorítmo de busca é maximizar seu desempenho, que além dos dados também pode adotar metas a esses algoritimos, também se busca um menor uso de memória e velocidade de resposta do agente.
-  Para problemas de busca, representações atômicas são mais comumente utilizadas visto que consideram os objetivos e ações futuras comparando com os resultados desejáveis. Essa estrutura adota um ou mais objetivos que treinam seu comportamento para ajudar limitar seus resultados assim como suas ações dentro do problema. Quando o ambiente é desconhecido o agente fará ações de modo aleatório, com várias ações e com vários valores para eventualmente alcançar o resultado esperado   
+  <p align="justify">O objetivo de um algorítmo de busca é maximizar seu desempenho, que além dos dados também pode adotar metas a esses algoritimos, também se busca um menor uso de memória e velocidade de resposta do agente.</p>
+  <p align="justify">Para problemas de busca, representações atômicas são mais comumente utilizadas visto que consideram os objetivos e ações futuras comparando com os resultados desejáveis. Essa estrutura adota um ou mais objetivos que treinam seu comportamento para ajudar limitar seus resultados assim como suas ações dentro do problema. Quando o ambiente é desconhecido o agente fará ações de modo aleatório, com várias ações e com vários valores para eventualmente alcançar o resultado esperado.</p>
 
 
 
