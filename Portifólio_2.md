@@ -9,7 +9,7 @@
 
 
 
-
+asxa
 Os Agente de soluções de problemas são baseados em objetivos e consideram ações
 futuras e o quanto seus resultados são desejáveis. Eles utilizam representações
 atômicas, onde não há estrutura interna visível para os algoritmos de resolução de
