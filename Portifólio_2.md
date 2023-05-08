@@ -1,6 +1,6 @@
 ## Resolvendo problemas por busca
 
-  Com o intuito de solucinar problemas, é necessário defini-los com precisão de uma forma que se permita descrever e encaixar os problemas em algorítmos de busca de uso geral.  
+  <p align="justify">Com o intuito de solucinar problemas, é necessário defini-los com precisão de uma forma que se permita descrever e encaixar os problemas em algorítmos de busca de uso geral.</p>
 
 ### Agente de solução de problemas
 
@@ -9,13 +9,13 @@
   <p align="justify">Como exemplo, nas figuras 1 e 2 retiradodos lo livro AI de Russel Norvig, são demontrados esse pensamento e seu famoso exemplo dos caminhos no mapa da Romênia:</p>
 
 <div align="center">
-<img src="Imagens/p2_f1.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<img src="Imagens/p2_f1.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
 <p align="center"> Algorítimo de Busca</p>
 
 <div align="center">
-<img src="Imagens/p2_f2.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<img src="Imagens/p2_f2.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
 <p align="center"> Mapa da Romênnia</p>
