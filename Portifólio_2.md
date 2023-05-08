@@ -12,13 +12,18 @@
 <img src="Imagens/p2_f1.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Algorítimo de Busca</p>
+<p align="center">Figura 1 - Algorítimo de Busca</p>
 
 <div align="center">
 <img src="Imagens/p2_f2.PNG" width="500px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Mapa da Romênnia</p>
+<p align="center">Figura 2 - Mapa da Romênnia</p>
+
+<p align="justify">Partindo dos exemplos das figuras 1 e 2, é formulado os objetivos e problemas para a execução do agente e dempendendo se sua malha é fechada, em que seu ambiente muda, ou aberta, em que o ambiente se mantém, e se está indo as cegas ou não, o algorítmo faz sua busca e decide qual caminho seguir.</p>
+
+
+
 
 
 
