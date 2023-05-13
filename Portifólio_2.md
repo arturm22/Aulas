@@ -20,10 +20,28 @@
 </div>
 <p align="center">Figura 2 - Mapa da Romênnia</p>
 
-<p align="justify">Partindo dos exemplos das figuras 1 e 2, é formulado os objetivos e problemas para a execução do agente e dempendendo se sua malha é fechada, em que seu ambiente muda, ou aberta, em que o ambiente se mantém, e se está indo as cegas ou não, o algorítmo faz sua busca e decide qual caminho seguir.</p>
+Com isso esse tipo de problema possui as seguintes xaracterísticas:
 
+Reage a estímulos do ambiente.
+• não possue estado interno e não é capaz de planejar com antecedência.
+• tipo de agente baseado em meta.
+• o projetista escolhe e codifica a meta dentro do agente.
+• Não funciona bem em ambientes para os quais o mapeamento entre percepções ações
+é muito grande para ser armazenado ou levaria muito tempo para aprender.
+• Não sabem o que suas ações podem realizar, essa informação está implícita nas
+regras que mapeiam percepções em ações.
 
+<p align="justify">Partindo dos exemplos das figuras 1 e 2, é formulado os objetivos e problemas para a execução do agente e dempendendo se sua malha é fechada, em que seu ambiente muda, ou aberta, em que o ambiente se mantém, e se está indo as cegas ou não, o algorítmo faz sua busca e decide qual caminho seguir. Ou seja  Se um sistema de malha aberta tem como objetivo um único caminho de uma entrada para um resultado e sendo considerado determinístico, e um sistema de malha fechada, não determinístico, que representa um caminho resultante em muitos caminhos, alguns dos quais podem chegar ao mesmo resultado e alguns dos quais podem chegar a resultados únicos </p>
 
+### Algoritmos de busca
+
+#### Busca cega
+
+São divididas da seguinte maneira:
+
+* **Busca em largura (Breadth-first)** - Partindo dos nós da fronteira, sempre explora o caminho mais curto em quantidade de ações antes. A fronteira é uma FILA (FIFO) e os nós sucessores vão para o fundo da fila em que se encontra a fronteira, porém sempre pega o mais próximo. Esse tipo de busca possui um ótimo custo e é um considerado sistema completo.
+* **Busca de custo uniforme** - Faz a busca em largura de modo a encontrar a solução ótima para qualquer valor de passo, e também possuir a estratégia de expandir o nó com menor custo de caminho.
+* **Busca em profundidade (depth-first)**
 
 
 
