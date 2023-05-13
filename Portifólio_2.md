@@ -43,6 +43,9 @@ São divididas da seguinte maneira:
 * **Busca de custo uniforme** 
   - Faz a busca em largura de modo a encontrar a solução ótima para qualquer valor de passo, e também possuir a estratégia de expandir o nó com menor custo de caminho.
 * **Busca em profundidade (depth-first)**
+  - Esse método sempre explora o nó mais longe ou mais profundo primeiro e pode ser implementado por best first search onde pussui uma função de valor negativo da profundidade.  Não é considerada ideal em termos de custo, ele retorna a primeira solução encontrada, mesmo que não seja a de menor custo e tem a possibilidade de ficar preso a um loops infinitos. Uma vantagem é a baixa utilização de  memória. 
+* **Busca informada ou heurística**
+  - A técnica de busca informada utiliza o conhecimento específico do problema para dar uma pista para a solução do problema. Esse tipo de estratégia de pesquisa impede que os algoritmos se confundam no objetivo e na direção da solução. Pode se vantajosa em custo, em que grande porte pela otimização e com custos de pesquisa mais baixos.
 
-
+### Conclusão
 
