@@ -47,5 +47,5 @@ São divididas da seguinte maneira:
 * **Busca informada ou heurística**
   - A técnica de busca informada utiliza o conhecimento específico do problema para dar uma pista para a solução do problema. Esse tipo de estratégia de pesquisa impede que os algoritmos se confundam no objetivo e na direção da solução. Pode se vantajosa em custo, em que grande porte pela otimização e com custos de pesquisa mais baixos.
 
-### Conclusão
+
 
