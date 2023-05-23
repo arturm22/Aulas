@@ -65,8 +65,55 @@ Uma restrição global envolve e colocar limites para seu funcionamento, fazendo
 *	No caso de grande número de valores, geralmente são usados limites
 
 
+### Algorítmo
+
+A seguir tem-se um código de colorir o mapa da Austrália:
 
 
+´´´
+def is_safe(variables, assignment, variable, value):
+    # Verifica se a atribuição de valor à variável é segura
+    for v in variables:
+        if v != variable and assignment[v] == value:
+            return False
+    return True
+
+def backtrack(variables, domain, assignment):
+    # Verifica se todas as variáveis foram atribuídas
+    if all(assignment[v] is not None for v in variables):
+        return assignment
+
+    # Seleciona a próxima variável a ser atribuída
+    variable = next(v for v in variables if assignment[v] is None)
+
+    # Tenta atribuir um valor à variável
+    for value in domain:
+        if is_safe(variables, assignment, variable, value):
+            assignment[variable] = value
+            result = backtrack(variables, domain, assignment)
+            if result is not None:
+                return result
+            assignment[variable] = None
+
+    # Não foi possível encontrar uma solução
+    return None
+
+# Exemplo de problema: coloração de mapa com 3 cores
+variables = ["WA", "NT", "SA", "Q", "NSW", "V", "T"]
+domain = ["red", "green", "blue"]
+assignment = {v: None for v in variables}
+
+solution = backtrack(variables, domain, assignment)
+print(solution)
+
+
+´´´
+
+<div align="center">
+<img src="Imagens/pintar_o_mapa.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
+<figcaption> </figcaption>
+</div>
+<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
 
 
 
