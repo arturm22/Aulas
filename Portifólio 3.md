@@ -70,7 +70,7 @@ Uma restrição global envolve e colocar limites para seu funcionamento, fazendo
 A seguir tem-se um código de colorir o mapa da Austrália:
 
 
-```
+```python
 
 def is_safe(variables, assignment, variable, value):
     # Verifica se a atribuição de valor à variável é segura
@@ -113,7 +113,7 @@ print(solution)
 <img src="Imagens/pintar_o_mapa.PNG" width="350px" alt="Imagem Criada pela inteligência artificial do bing" /> 
 <figcaption> </figcaption>
 </div>
-<p align="center"> Está imagem fo feita pela inteligencia artificial do bing e tenta fazer um resumo da introdução</p>
+<p align="center"> Está imagem foi retirada do site: https://docplayer.com.br/12687100-Satisfacao-de-restricoes-capitulo-5-disponivel-online.html</p>
 
 
 
