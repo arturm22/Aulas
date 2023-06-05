@@ -17,7 +17,7 @@
  
  <p align="justify">São programas feitos por computador que realizam ações e tomam decisões de acordo com sua avaliação lógica de afirmações e proposições. São pensados e projetados para processar a informação, entende-la de modo lógico, usando de processos de inferência e de base de fatos, que são conjuntos de informações conhecidas. Na lógica proposicional são muito utilizados em aplicações que exigem a tomada de decisões precisas , como sistemas de suporte à decisão e sistemas de gerenciamento de recursos. São capazes de processar informações de forma rápida e precisa, mas muitas vezes tende a ter dificuldades em lidar com informações imprecisas ou incertas.</p>
  
- Projetos e problemas
+ ### Projetos e problemas
  
  <p align="justify">Um  exemplo ao qual pode ser aplicado é a implementação do jogo da velha para jogar contra um jogador humano ou outro agente. Ele verifica primeiro se há um movimento vencedor disponível e o faz. Caso contrário, ele verifica se o oponente tem um movimento vencedor e tenta bloqueá-lo. Se nenhuma dessas condições for atendida, ele escolhe um movimento aleatório. E pode ser visto no código abaixo:</p> 
  
@@ -81,3 +81,7 @@ class TicTacToeAgent:
  
  
  ```
+
+### Conclusão
+
+<p align="justify">  Contudo é possível concluir que os agentes lógicos são úteis para resolver diversos problemas, e problemas com grande complexidade se bem estruturado também mas são mais adequados em problemas simples, nas mais diversas áreas possíveis, como na área médica. São fáceis de implementar e conseguem automatizar grande número de tarefas. São limitados por suas regras, trazendo com isso pontos negativos e positivosm além de informações mal estruturadas e lógicas incopletas afetam muito os sistemas lógicos.</p>
